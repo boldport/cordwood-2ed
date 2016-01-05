@@ -179,7 +179,16 @@
   "shapes": {
     "SS": {
       "footprint": "silkscreen", 
-      "layer": "bottom", 
+      "layer": "top", 
+      "location": [
+        0, 
+        0
+      ], 
+      "show": true
+    },
+    "PR": {
+      "footprint": "pours", 
+      "layer": "top", 
       "location": [
         0, 
         0
