@@ -251,7 +251,7 @@
   "drill-index": {
     "location": [
       -48.3, 
-      -10.3146350582
+      -10.314635
     ]
   }, 
   "drills": {}, 
@@ -276,6 +276,16 @@
     }
   }, 
   "shapes": {
+    "INFO": {
+      "footprint": "text", 
+      "layer": "top", 
+      "location": [
+        42, 
+        0
+      ], 
+      "rotate": 90, 
+      "show": true
+    }, 
     "LOGO": {
       "footprint": "boldport-logo-b", 
       "layer": "top", 
@@ -295,6 +305,15 @@
       ], 
       "show": true
     }, 
+    "SM": {
+      "footprint": "soldermask", 
+      "layer": "top", 
+      "location": [
+        -2.57, 
+        -0.47
+      ], 
+      "show": true
+    }, 
     "SS": {
       "footprint": "silkscreen", 
       "layer": "top", 
@@ -302,16 +321,6 @@
         0, 
         0
       ], 
-      "show": true
-    },
-    "INFO": {
-      "footprint": "text", 
-      "layer": "top", 
-      "location": [
-        42, 
-        0
-      ],
-      "rotate": 90,
       "show": true
     }
   }, 
