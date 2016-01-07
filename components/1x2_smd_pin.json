@@ -39,7 +39,7 @@
       "layout": 
       {
         "pad": "pin", 
-        "location": [-5.08, 0]
+        "location": [-5.08, 0.5]
       }
     },
   "4-TH":
@@ -47,7 +47,7 @@
       "layout": 
       {
         "pad": "pin-sq", 
-        "location": [5.08, 0]
+        "location": [5.08, -3.0]
       }
     }
   },
