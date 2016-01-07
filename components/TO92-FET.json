@@ -61,7 +61,7 @@
         {
 	  "layers": ["top", "bottom"],
           "type": "circle",
-          "diameter": 1.05
+          "diameter": 1.1
         }
       ],
       "drills":
@@ -78,8 +78,8 @@
         {
           "type": "rect",
 	  "layers": ["top", "bottom"],
-          "width": 1.05,
-          "height": 1.05,
+          "width": 1.1,
+          "height": 1.1,
           "radii": {"tl": 0.15, "tr": 0.15, "bl": 0.15, "br": 0.15}
         }
       ],
