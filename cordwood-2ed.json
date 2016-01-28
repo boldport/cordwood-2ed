@@ -257,7 +257,7 @@
   "drills": {}, 
   "files": {
     "routing-data": "cordwood-2ed_routing.json", 
-    "routing-svg": "cordwood2ed.svg"
+    "routing-svg": "cordwood-2ed.svg"
   }, 
   "gerber": {
     "decimals": 6, 
